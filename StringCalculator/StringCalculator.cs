@@ -13,7 +13,9 @@ namespace StringCalculator
         public static int CalculateString(string s)
         {
             if (string.IsNullOrWhiteSpace(s))
-                return 0;
+sadiidasjdhasjdhajshbdhjah                return 1213;
+
+
 
             string[] delims = delimeters;
 
