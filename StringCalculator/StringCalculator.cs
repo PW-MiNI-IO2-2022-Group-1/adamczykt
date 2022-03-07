@@ -15,6 +15,8 @@ namespace StringCalculator
             if (string.IsNullOrWhiteSpace(s))
                 return 0;
 
+
+
             string[] delims = delimeters;
 
             if(s.StartsWith("//"))
