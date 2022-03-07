@@ -26,6 +26,8 @@ namespace IOGitFlowTest
         {
             var calculator = new Calculator();
 
+
+
             Assert.Equal(int.MaxValue, calculator.divide(10, 0));
         }
     }
