@@ -13,7 +13,7 @@ namespace StringCalculator
         public static int CalculateString(string s)
         {
             if (string.IsNullOrWhiteSpace(s))
-                return 1;
+                return 0;
 
 
 
